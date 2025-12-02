@@ -106,7 +106,9 @@ python --version
 2. **Interaction** The webcam window will open titled **"Face Detection"**.
 
 
-3. Controls | Key | Action | | :---: | :--- | | q | Quit/Close the application window immediately. |
+|Controls | Key | Action |
+| :--- | :---: | :--- | 
+| q | Quit/Close the application window immediately. |
 
 
 > Note: Ensure your webcam is not being used by another application (like Zoom or Teams) before running the script.
