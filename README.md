@@ -74,7 +74,7 @@ python --version
 ### Installation
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/vijayrajeshr/Face-detection-using-opencv-and-python.git](https://github.com/vijayrajeshr/Face-detection-using-opencv-and-python.git)
+   git clone https://github.com/vijayrajeshr/Face-detection-using-opencv-and-python.git
    cd Face-detection-using-opencv-and-python
    ```
 
