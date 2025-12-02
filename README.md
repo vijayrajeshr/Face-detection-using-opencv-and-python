@@ -106,8 +106,8 @@ python --version
 2. **Interaction** The webcam window will open titled **"Face Detection"**.
 
 
-|Controls | Key | Action |
-| :--- | :---: | :--- | 
+| Key | Action |
+| :---: | :--- | 
 | q | Quit/Close the application window immediately. |
 
 
