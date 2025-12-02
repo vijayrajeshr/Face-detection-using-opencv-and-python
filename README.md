@@ -25,12 +25,9 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#-usage)
-- [How It Works](#-how-it-works)
 - [Project Structure](#-project-structure)
-- [Future Roadmap](#-future-roadmap)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Contact](#-contact)
 
 ---
 
