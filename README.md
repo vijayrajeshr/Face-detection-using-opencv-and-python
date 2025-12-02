@@ -98,15 +98,15 @@ python --version
 
 ## ▶️ Usage
 
-1.  **Run the Script Execute the main Python file to start the camera feed.**
+1. **Run the Script Execute the main Python file to start the camera feed.**
    ```bash
     python main.py
    ```
 
-2.**Interaction** The webcam window will open titled **"Face Detection"**.
+2. **Interaction** The webcam window will open titled **"Face Detection"**.
 
 
-3.Controls | Key | Action | | :---: | :--- | | q | Quit/Close the application window immediately. |
+3. Controls | Key | Action | | :---: | :--- | | q | Quit/Close the application window immediately. |
 
 
 > Note: Ensure your webcam is not being used by another application (like Zoom or Teams) before running the script.
